@@ -5,3 +5,6 @@
 - Saída de dados;
 - Arredondamentos;
 - Globalization;
+- Operadores Aritméticos;
+- Entrada de dados;
+- Condicionais.
