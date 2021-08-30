@@ -1,0 +1,15 @@
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\bin\Debug\net5.0\05_ExercicioEntradaDeDados.exe
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\bin\Debug\net5.0\05_ExercicioEntradaDeDados.deps.json
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\bin\Debug\net5.0\05_ExercicioEntradaDeDados.runtimeconfig.json
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\bin\Debug\net5.0\05_ExercicioEntradaDeDados.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\bin\Debug\net5.0\05_ExercicioEntradaDeDados.dll
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\bin\Debug\net5.0\ref\05_ExercicioEntradaDeDados.dll
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\bin\Debug\net5.0\05_ExercicioEntradaDeDados.pdb
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\obj\Debug\net5.0\05_ExercicioEntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\obj\Debug\net5.0\05_ExercicioEntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\obj\Debug\net5.0\05_ExercicioEntradaDeDados.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\obj\Debug\net5.0\05_ExercicioEntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\obj\Debug\net5.0\05_ExercicioEntradaDeDados.dll
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\obj\Debug\net5.0\ref\05_ExercicioEntradaDeDados.dll
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\obj\Debug\net5.0\05_ExercicioEntradaDeDados.pdb
+C:\Users\luan.marques\CSharp\03_Section\05_ExercicioEntradaDeDados\05_ExercicioEntradaDeDados\obj\Debug\net5.0\05_ExercicioEntradaDeDados.genruntimeconfig.cache

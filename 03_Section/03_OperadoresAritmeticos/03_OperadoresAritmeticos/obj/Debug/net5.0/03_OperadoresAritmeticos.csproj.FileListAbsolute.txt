@@ -1,0 +1,15 @@
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\bin\Debug\net5.0\03_OperadoresAritmeticos.exe
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\bin\Debug\net5.0\03_OperadoresAritmeticos.deps.json
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\bin\Debug\net5.0\03_OperadoresAritmeticos.runtimeconfig.json
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\bin\Debug\net5.0\03_OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\bin\Debug\net5.0\03_OperadoresAritmeticos.dll
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\bin\Debug\net5.0\ref\03_OperadoresAritmeticos.dll
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\bin\Debug\net5.0\03_OperadoresAritmeticos.pdb
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\obj\Debug\net5.0\03_OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\obj\Debug\net5.0\03_OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\obj\Debug\net5.0\03_OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\obj\Debug\net5.0\03_OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\obj\Debug\net5.0\03_OperadoresAritmeticos.dll
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\obj\Debug\net5.0\ref\03_OperadoresAritmeticos.dll
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\obj\Debug\net5.0\03_OperadoresAritmeticos.pdb
+C:\Users\luan.marques\CSharp\03_Section\03_OperadoresAritmeticos\03_OperadoresAritmeticos\obj\Debug\net5.0\03_OperadoresAritmeticos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\bin\Debug\net5.0\02_ExerciseLesson17.exe
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\bin\Debug\net5.0\02_ExerciseLesson17.deps.json
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\bin\Debug\net5.0\02_ExerciseLesson17.runtimeconfig.json
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\bin\Debug\net5.0\02_ExerciseLesson17.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\bin\Debug\net5.0\02_ExerciseLesson17.dll
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\bin\Debug\net5.0\ref\02_ExerciseLesson17.dll
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\bin\Debug\net5.0\02_ExerciseLesson17.pdb
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\obj\Debug\net5.0\02_ExerciseLesson17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\obj\Debug\net5.0\02_ExerciseLesson17.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\obj\Debug\net5.0\02_ExerciseLesson17.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\obj\Debug\net5.0\02_ExerciseLesson17.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\obj\Debug\net5.0\02_ExerciseLesson17.dll
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\obj\Debug\net5.0\ref\02_ExerciseLesson17.dll
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\obj\Debug\net5.0\02_ExerciseLesson17.pdb
+C:\Users\luan.marques\CSharp\03_Section\02_ExerciseLesson17\02_ExerciseLesson17\obj\Debug\net5.0\02_ExerciseLesson17.genruntimeconfig.cache

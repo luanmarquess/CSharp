@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\bin\Debug\net5.0\04_EntradaDeDados.exe
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\bin\Debug\net5.0\04_EntradaDeDados.deps.json
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\bin\Debug\net5.0\04_EntradaDeDados.runtimeconfig.json
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\bin\Debug\net5.0\04_EntradaDeDados.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\bin\Debug\net5.0\04_EntradaDeDados.dll
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\bin\Debug\net5.0\ref\04_EntradaDeDados.dll
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\bin\Debug\net5.0\04_EntradaDeDados.pdb
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\obj\Debug\net5.0\04_EntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\obj\Debug\net5.0\04_EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\obj\Debug\net5.0\04_EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\obj\Debug\net5.0\04_EntradaDeDados.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\obj\Debug\net5.0\04_EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\obj\Debug\net5.0\04_EntradaDeDados.dll
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\obj\Debug\net5.0\ref\04_EntradaDeDados.dll
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\obj\Debug\net5.0\04_EntradaDeDados.pdb
+C:\Users\luan.marques\CSharp\03_Section\04_EntradaDeDados\04_EntradaDeDados\obj\Debug\net5.0\04_EntradaDeDados.genruntimeconfig.cache
