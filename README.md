@@ -1,7 +1,7 @@
 # C# 
 ## Atividades do curso de C# Orientada a Objeto
 
-## Sobre
+## SOBRE
 - Atividades e projetos realizado ao decorrer do curso ministrado pelo professor Nelio Alves sobre a linguagem C# Orientada a Objeto
 
 ## TECNOLOGIAS
