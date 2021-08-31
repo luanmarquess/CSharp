@@ -1,0 +1,15 @@
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\bin\Debug\net5.0\08_While.exe
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\bin\Debug\net5.0\08_While.deps.json
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\bin\Debug\net5.0\08_While.runtimeconfig.json
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\bin\Debug\net5.0\08_While.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\bin\Debug\net5.0\08_While.dll
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\bin\Debug\net5.0\ref\08_While.dll
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\bin\Debug\net5.0\08_While.pdb
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\obj\Debug\net5.0\08_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\obj\Debug\net5.0\08_While.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\obj\Debug\net5.0\08_While.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\obj\Debug\net5.0\08_While.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\obj\Debug\net5.0\08_While.dll
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\obj\Debug\net5.0\ref\08_While.dll
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\obj\Debug\net5.0\08_While.pdb
+C:\Users\luan.marques\CSharp\03_Section\08_While\08_While\obj\Debug\net5.0\08_While.genruntimeconfig.cache

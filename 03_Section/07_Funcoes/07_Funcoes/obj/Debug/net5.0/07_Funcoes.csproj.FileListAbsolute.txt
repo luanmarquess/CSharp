@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\bin\Debug\net5.0\07_Funcoes.exe
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\bin\Debug\net5.0\07_Funcoes.deps.json
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\bin\Debug\net5.0\07_Funcoes.runtimeconfig.json
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\bin\Debug\net5.0\07_Funcoes.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\bin\Debug\net5.0\07_Funcoes.dll
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\bin\Debug\net5.0\ref\07_Funcoes.dll
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\bin\Debug\net5.0\07_Funcoes.pdb
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\obj\Debug\net5.0\07_Funcoes.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\obj\Debug\net5.0\07_Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\obj\Debug\net5.0\07_Funcoes.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\obj\Debug\net5.0\07_Funcoes.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\obj\Debug\net5.0\07_Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\obj\Debug\net5.0\07_Funcoes.dll
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\obj\Debug\net5.0\ref\07_Funcoes.dll
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\obj\Debug\net5.0\07_Funcoes.pdb
+C:\Users\luan.marques\CSharp\03_Section\07_Funcoes\07_Funcoes\obj\Debug\net5.0\07_Funcoes.genruntimeconfig.cache

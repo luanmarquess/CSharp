@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\bin\Debug\net5.0\01_AreaTrianguloSemOO.exe
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\bin\Debug\net5.0\01_AreaTrianguloSemOO.deps.json
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\bin\Debug\net5.0\01_AreaTrianguloSemOO.runtimeconfig.json
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\bin\Debug\net5.0\01_AreaTrianguloSemOO.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\bin\Debug\net5.0\01_AreaTrianguloSemOO.dll
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\bin\Debug\net5.0\ref\01_AreaTrianguloSemOO.dll
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\bin\Debug\net5.0\01_AreaTrianguloSemOO.pdb
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\obj\Debug\net5.0\01_AreaTrianguloSemOO.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\obj\Debug\net5.0\01_AreaTrianguloSemOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\obj\Debug\net5.0\01_AreaTrianguloSemOO.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\obj\Debug\net5.0\01_AreaTrianguloSemOO.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\obj\Debug\net5.0\01_AreaTrianguloSemOO.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\obj\Debug\net5.0\01_AreaTrianguloSemOO.dll
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\obj\Debug\net5.0\ref\01_AreaTrianguloSemOO.dll
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\obj\Debug\net5.0\01_AreaTrianguloSemOO.pdb
+C:\Users\luan.marques\CSharp\04_Section\01_AreaTrianguloSemOO\01_AreaTrianguloSemOO\obj\Debug\net5.0\01_AreaTrianguloSemOO.genruntimeconfig.cache
