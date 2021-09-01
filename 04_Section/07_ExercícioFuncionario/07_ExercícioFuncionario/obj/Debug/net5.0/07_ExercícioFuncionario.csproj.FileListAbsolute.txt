@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\bin\Debug\net5.0\07_ExercícioFuncionario.exe
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\bin\Debug\net5.0\07_ExercícioFuncionario.deps.json
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\bin\Debug\net5.0\07_ExercícioFuncionario.runtimeconfig.json
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\bin\Debug\net5.0\07_ExercícioFuncionario.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\bin\Debug\net5.0\07_ExercícioFuncionario.dll
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\bin\Debug\net5.0\ref\07_ExercícioFuncionario.dll
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\bin\Debug\net5.0\07_ExercícioFuncionario.pdb
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\obj\Debug\net5.0\07_ExercícioFuncionario.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\obj\Debug\net5.0\07_ExercícioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\obj\Debug\net5.0\07_ExercícioFuncionario.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\obj\Debug\net5.0\07_ExercícioFuncionario.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\obj\Debug\net5.0\07_ExercícioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\obj\Debug\net5.0\07_ExercícioFuncionario.dll
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\obj\Debug\net5.0\ref\07_ExercícioFuncionario.dll
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\obj\Debug\net5.0\07_ExercícioFuncionario.pdb
+C:\Users\luan.marques\CSharp\04_Section\07_ExercícioFuncionario\07_ExercícioFuncionario\obj\Debug\net5.0\07_ExercícioFuncionario.genruntimeconfig.cache

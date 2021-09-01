@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\bin\Debug\net5.0\08_ExercicioAlunoCalculaMedia.exe
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\bin\Debug\net5.0\08_ExercicioAlunoCalculaMedia.deps.json
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\bin\Debug\net5.0\08_ExercicioAlunoCalculaMedia.runtimeconfig.json
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\bin\Debug\net5.0\08_ExercicioAlunoCalculaMedia.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\bin\Debug\net5.0\08_ExercicioAlunoCalculaMedia.dll
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\bin\Debug\net5.0\ref\08_ExercicioAlunoCalculaMedia.dll
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\bin\Debug\net5.0\08_ExercicioAlunoCalculaMedia.pdb
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\obj\Debug\net5.0\08_ExercicioAlunoCalculaMedia.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\obj\Debug\net5.0\08_ExercicioAlunoCalculaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\obj\Debug\net5.0\08_ExercicioAlunoCalculaMedia.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\obj\Debug\net5.0\08_ExercicioAlunoCalculaMedia.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\obj\Debug\net5.0\08_ExercicioAlunoCalculaMedia.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\obj\Debug\net5.0\08_ExercicioAlunoCalculaMedia.dll
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\obj\Debug\net5.0\ref\08_ExercicioAlunoCalculaMedia.dll
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\obj\Debug\net5.0\08_ExercicioAlunoCalculaMedia.pdb
+C:\Users\luan.marques\CSharp\04_Section\08_ExercicioAlunoCalculaMedia\08_ExercicioAlunoCalculaMedia\obj\Debug\net5.0\08_ExercicioAlunoCalculaMedia.genruntimeconfig.cache

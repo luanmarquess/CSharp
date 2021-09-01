@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\bin\Debug\net5.0\04_ExercicioSalarioMedio.exe
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\bin\Debug\net5.0\04_ExercicioSalarioMedio.deps.json
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\bin\Debug\net5.0\04_ExercicioSalarioMedio.runtimeconfig.json
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\bin\Debug\net5.0\04_ExercicioSalarioMedio.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\bin\Debug\net5.0\04_ExercicioSalarioMedio.dll
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\bin\Debug\net5.0\ref\04_ExercicioSalarioMedio.dll
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\bin\Debug\net5.0\04_ExercicioSalarioMedio.pdb
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\obj\Debug\net5.0\04_ExercicioSalarioMedio.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\obj\Debug\net5.0\04_ExercicioSalarioMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\obj\Debug\net5.0\04_ExercicioSalarioMedio.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\obj\Debug\net5.0\04_ExercicioSalarioMedio.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\obj\Debug\net5.0\04_ExercicioSalarioMedio.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\obj\Debug\net5.0\04_ExercicioSalarioMedio.dll
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\obj\Debug\net5.0\ref\04_ExercicioSalarioMedio.dll
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\obj\Debug\net5.0\04_ExercicioSalarioMedio.pdb
+C:\Users\luan.marques\CSharp\04_Section\04_ExercicioSalarioMedio\04_ExercicioSalarioMedio\obj\Debug\net5.0\04_ExercicioSalarioMedio.genruntimeconfig.cache

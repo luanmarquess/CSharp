@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\bin\Debug\net5.0\02_ClasseTriangulo.exe
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\bin\Debug\net5.0\02_ClasseTriangulo.deps.json
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\bin\Debug\net5.0\02_ClasseTriangulo.runtimeconfig.json
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\bin\Debug\net5.0\02_ClasseTriangulo.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\bin\Debug\net5.0\02_ClasseTriangulo.dll
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\bin\Debug\net5.0\ref\02_ClasseTriangulo.dll
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\bin\Debug\net5.0\02_ClasseTriangulo.pdb
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\obj\Debug\net5.0\02_ClasseTriangulo.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\obj\Debug\net5.0\02_ClasseTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\obj\Debug\net5.0\02_ClasseTriangulo.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\obj\Debug\net5.0\02_ClasseTriangulo.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\obj\Debug\net5.0\02_ClasseTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\obj\Debug\net5.0\02_ClasseTriangulo.dll
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\obj\Debug\net5.0\ref\02_ClasseTriangulo.dll
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\obj\Debug\net5.0\02_ClasseTriangulo.pdb
+C:\Users\luan.marques\CSharp\04_Section\02_ClasseTriangulo\02_ClasseTriangulo\obj\Debug\net5.0\02_ClasseTriangulo.genruntimeconfig.cache

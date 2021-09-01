@@ -1,0 +1,15 @@
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\bin\Debug\net5.0\06_ExercicioRetangulo.exe
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\bin\Debug\net5.0\06_ExercicioRetangulo.deps.json
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\bin\Debug\net5.0\06_ExercicioRetangulo.runtimeconfig.json
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\bin\Debug\net5.0\06_ExercicioRetangulo.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\bin\Debug\net5.0\06_ExercicioRetangulo.dll
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\bin\Debug\net5.0\ref\06_ExercicioRetangulo.dll
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\bin\Debug\net5.0\06_ExercicioRetangulo.pdb
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\obj\Debug\net5.0\06_ExercicioRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\obj\Debug\net5.0\06_ExercicioRetangulo.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\obj\Debug\net5.0\06_ExercicioRetangulo.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\obj\Debug\net5.0\06_ExercicioRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\obj\Debug\net5.0\06_ExercicioRetangulo.dll
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\obj\Debug\net5.0\ref\06_ExercicioRetangulo.dll
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\obj\Debug\net5.0\06_ExercicioRetangulo.pdb
+C:\Users\luan.marques\CSharp\04_Section\06_ExercicioRetangulo\06_ExercicioRetangulo\obj\Debug\net5.0\06_ExercicioRetangulo.genruntimeconfig.cache

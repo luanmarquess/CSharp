@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\bin\Debug\net5.0\03_ExerciciosPessoaMaisVelha.exe
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\bin\Debug\net5.0\03_ExerciciosPessoaMaisVelha.deps.json
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\bin\Debug\net5.0\03_ExerciciosPessoaMaisVelha.runtimeconfig.json
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\bin\Debug\net5.0\03_ExerciciosPessoaMaisVelha.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\bin\Debug\net5.0\03_ExerciciosPessoaMaisVelha.dll
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\bin\Debug\net5.0\ref\03_ExerciciosPessoaMaisVelha.dll
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\bin\Debug\net5.0\03_ExerciciosPessoaMaisVelha.pdb
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\obj\Debug\net5.0\03_ExerciciosPessoaMaisVelha.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\obj\Debug\net5.0\03_ExerciciosPessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\obj\Debug\net5.0\03_ExerciciosPessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\obj\Debug\net5.0\03_ExerciciosPessoaMaisVelha.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\obj\Debug\net5.0\03_ExerciciosPessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\obj\Debug\net5.0\03_ExerciciosPessoaMaisVelha.dll
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\obj\Debug\net5.0\ref\03_ExerciciosPessoaMaisVelha.dll
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\obj\Debug\net5.0\03_ExerciciosPessoaMaisVelha.pdb
+C:\Users\luan.marques\CSharp\04_Section\03_ExerciciosPessoaMaisVelha\03_ExerciciosPessoaMaisVelha\obj\Debug\net5.0\03_ExerciciosPessoaMaisVelha.genruntimeconfig.cache
