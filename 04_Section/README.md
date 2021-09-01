@@ -5,3 +5,7 @@
 
 ## CONTEÚDO
 - Entender a importância da OO de maneira prática, criando sistemas para calcular a área de dois triangulos e compara-los. Um utilizando OO e o outro não;
+- Object e ToString;
+- Estrutura de uma classe;
+- Private e Public;
+- Get e Set;
