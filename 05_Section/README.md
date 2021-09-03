@@ -26,5 +26,5 @@ NomeClasse EXEMPLO = new NomeClasse
 {
   Valor1 = 2,
   Valor2 = "valor2"
-}
+};
 
