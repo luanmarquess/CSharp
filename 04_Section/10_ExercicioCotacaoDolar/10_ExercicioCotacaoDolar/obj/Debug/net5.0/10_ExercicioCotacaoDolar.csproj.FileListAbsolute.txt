@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\bin\Debug\net5.0\10_ExercicioCotacaoDolar.exe
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\bin\Debug\net5.0\10_ExercicioCotacaoDolar.deps.json
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\bin\Debug\net5.0\10_ExercicioCotacaoDolar.runtimeconfig.json
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\bin\Debug\net5.0\10_ExercicioCotacaoDolar.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\bin\Debug\net5.0\10_ExercicioCotacaoDolar.dll
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\bin\Debug\net5.0\ref\10_ExercicioCotacaoDolar.dll
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\bin\Debug\net5.0\10_ExercicioCotacaoDolar.pdb
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\obj\Debug\net5.0\10_ExercicioCotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\obj\Debug\net5.0\10_ExercicioCotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\obj\Debug\net5.0\10_ExercicioCotacaoDolar.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\obj\Debug\net5.0\10_ExercicioCotacaoDolar.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\obj\Debug\net5.0\10_ExercicioCotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\obj\Debug\net5.0\10_ExercicioCotacaoDolar.dll
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\obj\Debug\net5.0\ref\10_ExercicioCotacaoDolar.dll
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\obj\Debug\net5.0\10_ExercicioCotacaoDolar.pdb
+C:\Users\luan.marques\CSharp\04_Section\10_ExercicioCotacaoDolar\10_ExercicioCotacaoDolar\obj\Debug\net5.0\10_ExercicioCotacaoDolar.genruntimeconfig.cache

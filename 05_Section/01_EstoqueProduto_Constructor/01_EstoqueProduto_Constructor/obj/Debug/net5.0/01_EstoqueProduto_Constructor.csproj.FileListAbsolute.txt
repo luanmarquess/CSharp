@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\bin\Debug\net5.0\01_EstoqueProduto_Constructor.exe
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\bin\Debug\net5.0\01_EstoqueProduto_Constructor.deps.json
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\bin\Debug\net5.0\01_EstoqueProduto_Constructor.runtimeconfig.json
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\bin\Debug\net5.0\01_EstoqueProduto_Constructor.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\bin\Debug\net5.0\01_EstoqueProduto_Constructor.dll
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\bin\Debug\net5.0\ref\01_EstoqueProduto_Constructor.dll
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\bin\Debug\net5.0\01_EstoqueProduto_Constructor.pdb
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\obj\Debug\net5.0\01_EstoqueProduto_Constructor.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\obj\Debug\net5.0\01_EstoqueProduto_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\obj\Debug\net5.0\01_EstoqueProduto_Constructor.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\obj\Debug\net5.0\01_EstoqueProduto_Constructor.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\obj\Debug\net5.0\01_EstoqueProduto_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\obj\Debug\net5.0\01_EstoqueProduto_Constructor.dll
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\obj\Debug\net5.0\ref\01_EstoqueProduto_Constructor.dll
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\obj\Debug\net5.0\01_EstoqueProduto_Constructor.pdb
+C:\Users\luan.marques\CSharp\05_Section\01_EstoqueProduto_Constructor\01_EstoqueProduto_Constructor\obj\Debug\net5.0\01_EstoqueProduto_Constructor.genruntimeconfig.cache
