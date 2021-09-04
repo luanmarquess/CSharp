@@ -27,4 +27,17 @@ NomeClasse EXEMPLO = new NomeClasse
   Valor1 = 2,
   Valor2 = "valor2"
 };
-
+~~~ 
+- this.;
+- Encapsulamento;
+- AutoProperties:
+-   prop {get; set};
+- Modificadores de acesso:
+  - public, private;
+- Boa pratica padronização ordem membros classe:
+  - Atributos privados;
+  - Propiredades autoimplementadas;
+  - Construtores;
+  - Propriedades customizadas;
+  - Outros métodos da classe.
+ 
