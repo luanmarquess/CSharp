@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\bin\Debug\net5.0\05_ExercicioContaBanco.exe
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\bin\Debug\net5.0\05_ExercicioContaBanco.deps.json
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\bin\Debug\net5.0\05_ExercicioContaBanco.runtimeconfig.json
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\bin\Debug\net5.0\05_ExercicioContaBanco.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\bin\Debug\net5.0\05_ExercicioContaBanco.dll
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\bin\Debug\net5.0\ref\05_ExercicioContaBanco.dll
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\bin\Debug\net5.0\05_ExercicioContaBanco.pdb
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\obj\Debug\net5.0\05_ExercicioContaBanco.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\obj\Debug\net5.0\05_ExercicioContaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\obj\Debug\net5.0\05_ExercicioContaBanco.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\obj\Debug\net5.0\05_ExercicioContaBanco.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\obj\Debug\net5.0\05_ExercicioContaBanco.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\obj\Debug\net5.0\05_ExercicioContaBanco.dll
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\obj\Debug\net5.0\ref\05_ExercicioContaBanco.dll
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\obj\Debug\net5.0\05_ExercicioContaBanco.pdb
+C:\Users\luan.marques\CSharp\05_Section\05_ExercicioContaBanco\05_ExercicioContaBanco\obj\Debug\net5.0\05_ExercicioContaBanco.genruntimeconfig.cache

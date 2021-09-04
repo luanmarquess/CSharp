@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\bin\Debug\net5.0\03_Encapsulamento.exe
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\bin\Debug\net5.0\03_Encapsulamento.deps.json
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\bin\Debug\net5.0\03_Encapsulamento.runtimeconfig.json
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\bin\Debug\net5.0\03_Encapsulamento.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\bin\Debug\net5.0\03_Encapsulamento.dll
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\bin\Debug\net5.0\ref\03_Encapsulamento.dll
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\bin\Debug\net5.0\03_Encapsulamento.pdb
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\obj\Debug\net5.0\03_Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\obj\Debug\net5.0\03_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\obj\Debug\net5.0\03_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\obj\Debug\net5.0\03_Encapsulamento.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\obj\Debug\net5.0\03_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\obj\Debug\net5.0\03_Encapsulamento.dll
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\obj\Debug\net5.0\ref\03_Encapsulamento.dll
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\obj\Debug\net5.0\03_Encapsulamento.pdb
+C:\Users\luan.marques\CSharp\05_Section\03_Encapsulamento\03_Encapsulamento\obj\Debug\net5.0\03_Encapsulamento.genruntimeconfig.cache

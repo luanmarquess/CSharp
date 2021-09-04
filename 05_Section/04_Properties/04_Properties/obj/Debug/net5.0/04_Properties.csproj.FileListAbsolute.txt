@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\bin\Debug\net5.0\04_Properties.exe
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\bin\Debug\net5.0\04_Properties.deps.json
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\bin\Debug\net5.0\04_Properties.runtimeconfig.json
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\bin\Debug\net5.0\04_Properties.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\bin\Debug\net5.0\04_Properties.dll
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\bin\Debug\net5.0\ref\04_Properties.dll
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\bin\Debug\net5.0\04_Properties.pdb
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\obj\Debug\net5.0\04_Properties.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\obj\Debug\net5.0\04_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\obj\Debug\net5.0\04_Properties.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\obj\Debug\net5.0\04_Properties.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\obj\Debug\net5.0\04_Properties.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\obj\Debug\net5.0\04_Properties.dll
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\obj\Debug\net5.0\ref\04_Properties.dll
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\obj\Debug\net5.0\04_Properties.pdb
+C:\Users\luan.marques\CSharp\05_Section\04_Properties\04_Properties\obj\Debug\net5.0\04_Properties.genruntimeconfig.cache

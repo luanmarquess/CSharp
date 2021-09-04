@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\bin\Debug\net5.0\02_This.exe
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\bin\Debug\net5.0\02_This.deps.json
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\bin\Debug\net5.0\02_This.runtimeconfig.json
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\bin\Debug\net5.0\02_This.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\bin\Debug\net5.0\02_This.dll
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\bin\Debug\net5.0\ref\02_This.dll
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\bin\Debug\net5.0\02_This.pdb
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\obj\Debug\net5.0\02_This.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\obj\Debug\net5.0\02_This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\obj\Debug\net5.0\02_This.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\obj\Debug\net5.0\02_This.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\obj\Debug\net5.0\02_This.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\obj\Debug\net5.0\02_This.dll
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\obj\Debug\net5.0\ref\02_This.dll
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\obj\Debug\net5.0\02_This.pdb
+C:\Users\luan.marques\CSharp\05_Section\02_This\02_This\obj\Debug\net5.0\02_This.genruntimeconfig.cache
