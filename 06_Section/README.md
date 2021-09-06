@@ -9,5 +9,6 @@
 ## CONTEÚDO
 - class != struct;
 - Garbage Collector / Desalocação do escopo;
-- Nullable ?;
+- Nullable -> double?;
+- Operador de Coalescência Nula -> a = x ?? y;
 
