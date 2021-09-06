@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\bin\Debug\net5.0\02_Nullable.exe
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\bin\Debug\net5.0\02_Nullable.deps.json
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\bin\Debug\net5.0\02_Nullable.runtimeconfig.json
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\bin\Debug\net5.0\02_Nullable.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\bin\Debug\net5.0\02_Nullable.dll
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\bin\Debug\net5.0\ref\02_Nullable.dll
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\bin\Debug\net5.0\02_Nullable.pdb
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\obj\Debug\net5.0\02_Nullable.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\obj\Debug\net5.0\02_Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\obj\Debug\net5.0\02_Nullable.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\obj\Debug\net5.0\02_Nullable.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\obj\Debug\net5.0\02_Nullable.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\obj\Debug\net5.0\02_Nullable.dll
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\obj\Debug\net5.0\ref\02_Nullable.dll
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\obj\Debug\net5.0\02_Nullable.pdb
+C:\Users\luan.marques\CSharp\06_Section\02_Nullable\02_Nullable\obj\Debug\net5.0\02_Nullable.genruntimeconfig.cache

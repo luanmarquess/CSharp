@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\bin\Debug\net5.0\01_TipoStruct.exe
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\bin\Debug\net5.0\01_TipoStruct.deps.json
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\bin\Debug\net5.0\01_TipoStruct.runtimeconfig.json
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\bin\Debug\net5.0\01_TipoStruct.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\bin\Debug\net5.0\01_TipoStruct.dll
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\bin\Debug\net5.0\ref\01_TipoStruct.dll
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\bin\Debug\net5.0\01_TipoStruct.pdb
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\obj\Debug\net5.0\01_TipoStruct.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\obj\Debug\net5.0\01_TipoStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\obj\Debug\net5.0\01_TipoStruct.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\obj\Debug\net5.0\01_TipoStruct.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\obj\Debug\net5.0\01_TipoStruct.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\obj\Debug\net5.0\01_TipoStruct.dll
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\obj\Debug\net5.0\ref\01_TipoStruct.dll
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\obj\Debug\net5.0\01_TipoStruct.pdb
+C:\Users\luan.marques\CSharp\06_Section\01_TipoStruct\01_TipoStruct\obj\Debug\net5.0\01_TipoStruct.genruntimeconfig.cache
