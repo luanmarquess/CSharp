@@ -3,8 +3,8 @@
 - Comportamento de memória;
 - Array;
 - Lista.
-
-<br><br>
+- 
+<br>
 
 ## CONTEÚDO
 - class != struct;
