@@ -3,7 +3,7 @@
 - Comportamento de memória;
 - Array;
 - Lista.
-- 
+
 <br>
 
 ## CONTEÚDO
@@ -11,4 +11,5 @@
 - Garbage Collector / Desalocação do escopo;
 - Nullable -> double?;
 - Operador de Coalescência Nula -> a = x ?? y;
+- Vetor;
 
