@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\bin\Debug\net5.0\04_VetorClasse.exe
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\bin\Debug\net5.0\04_VetorClasse.deps.json
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\bin\Debug\net5.0\04_VetorClasse.runtimeconfig.json
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\bin\Debug\net5.0\04_VetorClasse.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\bin\Debug\net5.0\04_VetorClasse.dll
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\bin\Debug\net5.0\ref\04_VetorClasse.dll
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\bin\Debug\net5.0\04_VetorClasse.pdb
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\obj\Debug\net5.0\04_VetorClasse.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\obj\Debug\net5.0\04_VetorClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\obj\Debug\net5.0\04_VetorClasse.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\obj\Debug\net5.0\04_VetorClasse.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\obj\Debug\net5.0\04_VetorClasse.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\obj\Debug\net5.0\04_VetorClasse.dll
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\obj\Debug\net5.0\ref\04_VetorClasse.dll
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\obj\Debug\net5.0\04_VetorClasse.pdb
+C:\Users\luan.marques\CSharp\06_Section\04_VetorClasse\04_VetorClasse\obj\Debug\net5.0\04_VetorClasse.genruntimeconfig.cache

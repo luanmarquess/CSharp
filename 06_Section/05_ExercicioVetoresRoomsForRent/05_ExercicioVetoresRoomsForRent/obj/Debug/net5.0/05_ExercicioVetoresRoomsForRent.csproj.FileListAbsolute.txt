@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\bin\Debug\net5.0\05_ExercicioVetoresRoomsForRent.exe
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\bin\Debug\net5.0\05_ExercicioVetoresRoomsForRent.deps.json
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\bin\Debug\net5.0\05_ExercicioVetoresRoomsForRent.runtimeconfig.json
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\bin\Debug\net5.0\05_ExercicioVetoresRoomsForRent.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\bin\Debug\net5.0\05_ExercicioVetoresRoomsForRent.dll
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\bin\Debug\net5.0\ref\05_ExercicioVetoresRoomsForRent.dll
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\bin\Debug\net5.0\05_ExercicioVetoresRoomsForRent.pdb
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\obj\Debug\net5.0\05_ExercicioVetoresRoomsForRent.csproj.AssemblyReference.cache
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\obj\Debug\net5.0\05_ExercicioVetoresRoomsForRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\obj\Debug\net5.0\05_ExercicioVetoresRoomsForRent.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\obj\Debug\net5.0\05_ExercicioVetoresRoomsForRent.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\obj\Debug\net5.0\05_ExercicioVetoresRoomsForRent.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\obj\Debug\net5.0\05_ExercicioVetoresRoomsForRent.dll
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\obj\Debug\net5.0\ref\05_ExercicioVetoresRoomsForRent.dll
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\obj\Debug\net5.0\05_ExercicioVetoresRoomsForRent.pdb
+C:\Users\luan.marques\CSharp\06_Section\05_ExercicioVetoresRoomsForRent\05_ExercicioVetoresRoomsForRent\obj\Debug\net5.0\05_ExercicioVetoresRoomsForRent.genruntimeconfig.cache

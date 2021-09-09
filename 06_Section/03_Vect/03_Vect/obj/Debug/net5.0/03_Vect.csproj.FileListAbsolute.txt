@@ -1,0 +1,16 @@
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\bin\Debug\net5.0\03_Vect.exe
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\bin\Debug\net5.0\03_Vect.deps.json
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\bin\Debug\net5.0\03_Vect.runtimeconfig.json
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\bin\Debug\net5.0\03_Vect.runtimeconfig.dev.json
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\bin\Debug\net5.0\03_Vect.dll
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\bin\Debug\net5.0\ref\03_Vect.dll
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\bin\Debug\net5.0\03_Vect.pdb
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\obj\Debug\net5.0\03_Vect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\obj\Debug\net5.0\03_Vect.AssemblyInfoInputs.cache
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\obj\Debug\net5.0\03_Vect.AssemblyInfo.cs
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\obj\Debug\net5.0\03_Vect.csproj.CoreCompileInputs.cache
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\obj\Debug\net5.0\03_Vect.dll
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\obj\Debug\net5.0\ref\03_Vect.dll
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\obj\Debug\net5.0\03_Vect.pdb
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\obj\Debug\net5.0\03_Vect.genruntimeconfig.cache
+C:\Users\luan.marques\CSharp\06_Section\03_Vect\03_Vect\obj\Debug\net5.0\03_Vect.csproj.AssemblyReference.cache
